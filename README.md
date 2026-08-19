@@ -1,6 +1,6 @@
 # Screen Time Impact Analysis
 
-**By [Your Name]**
+**By Vivaan Verma**
 
 This project explores the impact of screen time and how it correlates with education level, productivity level, attention span, and demographics. The project produces both exploratory data visualizations and machine learning model results.
 
